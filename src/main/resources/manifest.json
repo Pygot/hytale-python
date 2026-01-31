@@ -1,0 +1,6 @@
+{
+  "Group": "org.pygot",
+  "Name": "Hytale-Py",
+  "Version": "1.0.0",
+  "Main": "org.pygot.Main"
+}
