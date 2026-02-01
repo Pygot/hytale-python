@@ -3,6 +3,8 @@ package org.pygot;
 import com.hypixel.hytale.logger.HytaleLogger;
 import com.hypixel.hytale.server.core.plugin.JavaPlugin;
 import com.hypixel.hytale.server.core.plugin.JavaPluginInit;
+import com.hypixel.hytale.server.core.universe.world.World;
+import com.hypixel.hytale.server.core.universe.Universe;
 import org.python.util.PythonInterpreter;
 
 import javax.annotation.Nonnull;
@@ -20,6 +22,17 @@ public final class Main extends JavaPlugin {
         super(init);
         this.init = init;
         Log = getLogger();
+    }
+
+    public void runOnMain(Runnable task) {
+        World world = Universe.get().getDefaultWorld();
+
+        if (world == null) {
+            Log.at(Level.SEVERE).log("Default world not found!");
+            return;
+        }
+
+        world.execute(task);
     }
 
     @Override
