@@ -5,17 +5,19 @@ from java.util.logging import Level
 from defaults import prefix
 
 
-def info(hytaleLogger, message):
-    hytaleLogger.at(Level.INFO).log(prefix + message)
-    return True
+class Log:
+    def __init__(self, hytale_logger):
+        self.hytale_logger = hytale_logger
 
+    def info(self, message):
+        self.hytale_logger.at(Level.INFO).log(prefix + message)
+        return True
 
-def error(hytaleLogger, message):
-    hytaleLogger.at(Level.SEVERE).log(prefix + message)
-    return True
+    def error(self, message):
+        self.hytale_logger.at(Level.SEVERE).log(prefix + message)
+        return True
 
-
-def debug(hytaleLogger, message, is_debug):
-    if is_debug:
-        hytaleLogger.at(Level.INFO).log("[DEBUG] " + prefix + message)
-    return is_debug
+    def debug(self, message, is_debug):
+        if is_debug:
+            self.hytale_logger.at(Level.INFO).log("[DEBUG] " + prefix + message)
+        return is_debug
