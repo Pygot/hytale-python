@@ -10,3 +10,12 @@ Who likes java, nobody right? Python is better. Here, use this, it might be more
 ## Don't forget that this is Jython, so you can use only Python2 not Python3. If you need Python3, consider checking out [JyNi](https://github.com/Stewori/JyNI)!
 
 This mod was created, so I can participate in the first ever Hytale Modjam, good luck my opponents! See more here: [hytalemodjam.com](https://hytalemodjam.com/)
+
+
+# TODO LIST (Important TOP - Less Important BOTTOM):
+- [ ] Create model for Robot
+- [ ] Create Robot AI logic
+- [ ] Create Documentation
+- [ ] Give Robot a better name
+- [ ] Record gameplay
+- [ ] Story-telling about the project as another video
