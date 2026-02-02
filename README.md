@@ -7,12 +7,22 @@ Who likes java, nobody right? Python is better. Here, use this, it might be more
 
 ### This mod exposes ```this``` as __plugin__ and ```init``` as __init__ and will create ```scripts/``` directory at startup, you can copy the ```scripts_example``` content into it.
 
-## Don't forget that this is Jython, so you can use only Python2 not Python3. If you need Python3, consider checking out [JyNi](https://github.com/Stewori/JyNI)!
+### Don't forget that this is Jython, so you can use only Python2 not Python3. If you need Python3, consider checking out [JyNi](https://github.com/Stewori/JyNI)!
 
-This mod was created, so I can participate in the first ever Hytale Modjam, good luck my opponents! See more here: [hytalemodjam.com](https://hytalemodjam.com/)
+---
+
+# robot - mod
+
+> This mod was created, so I can participate in the first ever Hytale Modjam, good luck my opponents! See more here: [hytalemodjam.com](https://hytalemodjam.com/)
+
+This "mod", which uses jython and my hytale-python mod, is a mod that adds an NPC named Robot to your server. The Robot will be happy to help you survive, or will be happy to help you kill you.
+
+### Why Jython?
 
 
-# TODO LIST (Important TOP - Less Important BOTTOM):
+Because I don't know Java! Lol - @Pygot 02.02.2026
+
+### TODO LIST (Important TOP - Less Important BOTTOM):
 - [ ] Create model for Robot
 - [ ] Create Robot AI logic
 - [ ] Create Documentation
