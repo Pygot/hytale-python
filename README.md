@@ -33,7 +33,7 @@ Because I don't know Java! Lol - @Pygot 02.02.2026
 - [ ] Record gameplay
 - [ ] Story-telling about the project as another video
 
-> It's 20:15, 02.02.2026 and I was coding all day straight, still need to get a dinner... We know, I and Izak will def not win lol but it was a ride and precious experience! We started 2 days lateee aaaaw! Congratulation to all wineers! I really need to get some food now lmao.
+> It's 20:15, 02.02.2026 and I was coding all day straight, still need to get a dinner... We know, Izak and I will def not win lol but it was a ride and precious experience! We started 2 days lateee aaaaw! Congratulation to all wineers! I really need to get some food now lmao.
 
 [donwload mp4 gameplay](media/gameplay.mp4)
 
