@@ -33,4 +33,6 @@ Because I don't know Java! Lol - @Pygot 02.02.2026
 - [ ] Record gameplay
 - [ ] Story-telling about the project as another video
 
-[](media/gameplay.mp4)
+[donwload mp4 gameplay](media/gameplay.mp4)
+
+[view mp4 gameplay online (link expiring in 2 days)](https://streamable.com/n7zmdr)
