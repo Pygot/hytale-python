@@ -26,7 +26,7 @@ This "mod", which uses jython and my hytale-python mod, is a mod that adds an NP
 Because I don't know Java! Lol - @Pygot 02.02.2026
 
 ### TODO LIST (Important TOP - Less Important BOTTOM):
-- [ ] Create model for Robot
+- [x] Create model for Robot
 - [ ] Create Robot AI logic
 - [ ] Create Documentation
 - [ ] Give Robot a better name
