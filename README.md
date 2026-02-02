@@ -1,5 +1,5 @@
 # hytale-python
-Who likes java, nobody right? Python is better. Here, use this, it might be more complicated, but it's python!
+Who likes java, nobody right? Python is better. Here, use this, it might be more annoying, but it's python!
 
 ### To compile follow these steps:
 1. Replace ```libs/HytaleServer.jar``` mock with the actual **HytaleServer.jar**
