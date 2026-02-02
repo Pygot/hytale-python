@@ -1,4 +1,4 @@
-is_debug = False
+is_debug = True
 
 robot_name = "Robot"
 
