@@ -32,3 +32,5 @@ Because I don't know Java! Lol - @Pygot 02.02.2026
 - [ ] Give Robot a better name
 - [ ] Record gameplay
 - [ ] Story-telling about the project as another video
+
+[](media/gameplay.mp4)
